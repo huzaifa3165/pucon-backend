@@ -1,0 +1,19 @@
+.maindiv {
+    height: auto;
+    width: 1263px;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.container {
+    width: 1280px;
+}
+
+.creatediv {
+    height: 30vh;
+    width: 80%;
+    background-color: white;
+    border: 2px dotted gray;
+    border-radius: 10px;
+    margin: 100px;
+}

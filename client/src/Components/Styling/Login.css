@@ -1,0 +1,31 @@
+.main1 {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black;
+    padding: 50px 440px;
+}
+
+.text1 {
+    text-align: center;
+    color: white;
+    padding-bottom: 3%;
+    text-decoration: underline;
+}
+
+.form1 {
+    height: auto;
+    width: 400px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    margin-top: 7%;
+}
+
+.innerdiv1 {
+    padding: 5%;
+}
+
+.form-control1 {
+    width: 100%;
+}
