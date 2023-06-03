@@ -1,0 +1,29 @@
+{
+  "name": "user-management-system",
+  "version": "1.0.0",
+  "description": "Pucon EMS Challenge Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huzaifa3165/pucon-backend.git"
+  },
+  "author": "Muhammad Huzaifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huzaifa3165/pucon-backend/issues"
+  },
+  "homepage": "https://github.com/huzaifa3165/pucon-backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2",
+    "validator": "^13.9.0"
+  }
+}
